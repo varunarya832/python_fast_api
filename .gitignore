@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env/
+.env.bak
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# mypy / coverage
+.mypy_cache/
+coverage.xml
+htmlcov/
+.coverage
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# FastAPI auto-generated
+*.db
